@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CjAnkfdvug+8nsuig6pcIVEDddLMh2mFhG/+m7SI20KIwMWWtXhYj8mcwi7+Qdk8sS18m/gCVcxULbzEWK10mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famil\\source\\repos\\AprendendoCsharp - 3-CriandoVariaveisPontoFlutuante\\AprendendoCsharp - 3-CriandoVariaveisPontoFlutuante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.14\\microsoft.netcore.app.host.win-x86.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

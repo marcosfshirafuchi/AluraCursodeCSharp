@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\bin\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.exe
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\bin\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\bin\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\bin\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\bin\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\refint\AprendendoCsharp - 6-AtribuicoesDeVariaveis.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\AprendendoCsharp - 6-AtribuicoesDeVariaveis.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 6-AtribuicoesDeVariaveis\obj\Debug\net6.0\ref\AprendendoCsharp - 6-AtribuicoesDeVariaveis.dll

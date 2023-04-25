@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhW28xixLfEetQHckY2g4bCwS06stagGsbcHnIHwU/2VJc54ja5K0KdUSw2tMOcwX7n8JyDwlTOb9e3lMzlY4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famil\\source\\repos\\AprendendoCsharp - 1-OlaMundo\\AprendendoCsharp - 1-OlaMundo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.14\\microsoft.netcore.app.host.win-x86.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5I8R0haPR5/qpwoMAC46dAtM4PfOoPir/plzWpT0ymc2JH04ogRAkfyRcNF0qF2wLnAXEDZETAVkUdT9QpeI3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famil\\source\\repos\\AprendendoCsharp - 5-CaracteresETextos\\AprendendoCsharp - 5-CaracteresETextos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.14\\microsoft.netcore.app.host.win-x86.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

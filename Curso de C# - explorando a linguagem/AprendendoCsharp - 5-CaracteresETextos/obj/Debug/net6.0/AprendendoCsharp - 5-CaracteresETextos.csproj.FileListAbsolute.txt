@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\bin\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.exe
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\bin\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\bin\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\bin\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\bin\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\refint\AprendendoCsharp - 5-CaracteresETextos.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\AprendendoCsharp - 5-CaracteresETextos.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 5-CaracteresETextos\obj\Debug\net6.0\ref\AprendendoCsharp - 5-CaracteresETextos.dll

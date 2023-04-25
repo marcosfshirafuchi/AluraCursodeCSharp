@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\bin\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.exe
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\bin\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\bin\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\bin\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.dll
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\bin\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.dll
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\refint\AprendendoCsharp - P10-CalculaPoupanca.dll
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\AprendendoCsharp - P10-CalculaPoupanca.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - P10-CalculaPoupanca\obj\Debug\net6.0\ref\AprendendoCsharp - P10-CalculaPoupanca.dll

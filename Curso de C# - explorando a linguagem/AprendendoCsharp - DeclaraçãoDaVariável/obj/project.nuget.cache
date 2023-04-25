@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mye+rITE2RcHqF10fgxl72u8didfPCs16ZWQ5+wpkvzWrjhmLPkR7+WnIMVVJCO0dA00rktcyDwvwNCxbj7lhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famil\\source\\repos\\AprendendoCsharp - DeclaraçãoDaVariável\\AprendendoCsharp - DeclaraçãoDaVariável.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.14\\microsoft.netcore.app.host.win-x86.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

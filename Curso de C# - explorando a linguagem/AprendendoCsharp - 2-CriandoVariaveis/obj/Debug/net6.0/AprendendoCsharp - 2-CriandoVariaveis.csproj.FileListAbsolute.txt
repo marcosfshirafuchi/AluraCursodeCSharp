@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\bin\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.exe
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\bin\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\bin\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\bin\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\bin\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\refint\AprendendoCsharp - 2-CriandoVariaveis.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\AprendendoCsharp - 2-CriandoVariaveis.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 2-CriandoVariaveis\obj\Debug\net6.0\ref\AprendendoCsharp - 2-CriandoVariaveis.dll

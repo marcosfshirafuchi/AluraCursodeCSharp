@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\bin\Debug\net6.0\AprendendoCsharp - 7-Condicionais.exe
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\bin\Debug\net6.0\AprendendoCsharp - 7-Condicionais.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\bin\Debug\net6.0\AprendendoCsharp - 7-Condicionais.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\bin\Debug\net6.0\AprendendoCsharp - 7-Condicionais.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\bin\Debug\net6.0\AprendendoCsharp - 7-Condicionais.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\AprendendoCsharp - 7-Condicionais.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\AprendendoCsharp - 7-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\AprendendoCsharp - 7-Condicionais.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\AprendendoCsharp - 7-Condicionais.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\AprendendoCsharp - 7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\AprendendoCsharp - 7-Condicionais.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\refint\AprendendoCsharp - 7-Condicionais.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\AprendendoCsharp - 7-Condicionais.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\AprendendoCsharp - 7-Condicionais.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 7-Condicionais\obj\Debug\net6.0\ref\AprendendoCsharp - 7-Condicionais.dll

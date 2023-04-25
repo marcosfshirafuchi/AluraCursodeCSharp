@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\bin\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.exe
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\bin\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\bin\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\bin\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\bin\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\refint\AprendendoCsharp - Desafio - AlíquotaComIfs.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\AprendendoCsharp - Desafio - AlíquotaComIfs.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Desafio - AlíquotaComIfs\obj\Debug\net6.0\ref\AprendendoCsharp - Desafio - AlíquotaComIfs.dll

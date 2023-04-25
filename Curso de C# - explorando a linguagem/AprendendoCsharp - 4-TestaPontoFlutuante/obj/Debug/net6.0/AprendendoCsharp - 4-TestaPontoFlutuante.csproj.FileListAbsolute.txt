@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\bin\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.exe
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\bin\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\bin\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\bin\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\bin\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\refint\AprendendoCsharp - 4-TestaPontoFlutuante.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\AprendendoCsharp - 4-TestaPontoFlutuante.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 4-TestaPontoFlutuante\obj\Debug\net6.0\ref\AprendendoCsharp - 4-TestaPontoFlutuante.dll

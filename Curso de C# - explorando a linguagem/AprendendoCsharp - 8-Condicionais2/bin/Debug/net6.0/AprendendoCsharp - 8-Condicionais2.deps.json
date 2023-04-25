@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AprendendoCsharp - 8-Condicionais2/1.0.0": {
+        "runtime": {
+          "AprendendoCsharp - 8-Condicionais2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AprendendoCsharp - 8-Condicionais2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\bin\Debug\net6.0\AprendendoCsharp - Comando Switch.exe
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\bin\Debug\net6.0\AprendendoCsharp - Comando Switch.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\bin\Debug\net6.0\AprendendoCsharp - Comando Switch.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\bin\Debug\net6.0\AprendendoCsharp - Comando Switch.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\bin\Debug\net6.0\AprendendoCsharp - Comando Switch.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\AprendendoCsharp - Comando Switch.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\AprendendoCsharp - Comando Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\AprendendoCsharp - Comando Switch.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\AprendendoCsharp - Comando Switch.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\AprendendoCsharp - Comando Switch.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\AprendendoCsharp - Comando Switch.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\refint\AprendendoCsharp - Comando Switch.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\AprendendoCsharp - Comando Switch.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\AprendendoCsharp - Comando Switch.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Comando Switch\obj\Debug\net6.0\ref\AprendendoCsharp - Comando Switch.dll

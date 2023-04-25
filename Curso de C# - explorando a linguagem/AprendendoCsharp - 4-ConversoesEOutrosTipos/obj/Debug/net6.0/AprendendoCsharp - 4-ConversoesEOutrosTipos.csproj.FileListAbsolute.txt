@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\bin\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.exe
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\bin\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\bin\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\bin\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\bin\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\refint\AprendendoCsharp - 4-ConversoesEOutrosTipos.dll
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\AprendendoCsharp - 4-ConversoesEOutrosTipos.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - 4-ConversoesEOutrosTipos\obj\Debug\net6.0\ref\AprendendoCsharp - 4-ConversoesEOutrosTipos.dll

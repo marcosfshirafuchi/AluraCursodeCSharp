@@ -1,0 +1,15 @@
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\bin\Debug\net6.0\AprendendoCsharp - Condicional.exe
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\bin\Debug\net6.0\AprendendoCsharp - Condicional.deps.json
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\bin\Debug\net6.0\AprendendoCsharp - Condicional.runtimeconfig.json
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\bin\Debug\net6.0\AprendendoCsharp - Condicional.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\bin\Debug\net6.0\AprendendoCsharp - Condicional.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\AprendendoCsharp - Condicional.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\AprendendoCsharp - Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\AprendendoCsharp - Condicional.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\AprendendoCsharp - Condicional.AssemblyInfo.cs
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\AprendendoCsharp - Condicional.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\AprendendoCsharp - Condicional.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\refint\AprendendoCsharp - Condicional.dll
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\AprendendoCsharp - Condicional.pdb
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\AprendendoCsharp - Condicional.genruntimeconfig.cache
+C:\Users\famil\source\repos\AprendendoCsharp - Condicional\obj\Debug\net6.0\ref\AprendendoCsharp - Condicional.dll
